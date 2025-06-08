@@ -14,11 +14,11 @@ To analyze customer support tickets and extract **common issues**, evaluate **re
 - 📘 `Customer_Support_ticket_Analysis.ipynb` — Full Jupyter Notebook with all code and visualizations  
 - 📄 `Customer_Support_ticket_Analysis.pdf` — Final report with summary, charts, and recommendations  
 - 📊 Chart PNGs:
-  - `top_5_issues.png`
+  - `ticket_issues.png`
   - `ticket_status_distribution.png`
   - `average_resolution_time.png`
   - `ticket_type_distribution.png`
-  - `ticket_wordcloud.png`
+  - `common_customer_support_issues.png`
 
 ---
 
