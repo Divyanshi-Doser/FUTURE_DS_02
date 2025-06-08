@@ -1,6 +1,6 @@
 # 📊 Customer Support Ticket Analysis — Internship Project
 
-This project was completed as part of my second internship with **Future Intern**, focusing on analyzing over **8,400 real-world customer support tickets** to uncover bottlenecks and recommend data-driven improvements.
+This project was completed as part of my internship with **Future Intern**, focusing on analyzing over **8,400 real-world customer support tickets** to uncover bottlenecks and recommend data-driven improvements.
 
 ---
 
@@ -11,13 +11,13 @@ To analyze customer support tickets and extract **common issues**, evaluate **re
 
 ## 📁 Project Files
 
-- 📘 `Customer_Support_Analysis.ipynb` — Full Jupyter Notebook with all code and visualizations  
-- 📄 `Customer_Support_Analysis.pdf` — Final report with summary, charts, and recommendations  
+- 📘 `Customer_Support_ticket_Analysis.ipynb` — Full Jupyter Notebook with all code and visualizations  
+- 📄 `Customer_Support_ticket_Analysis.pdf` — Final report with summary, charts, and recommendations  
 - 📊 Chart PNGs:
   - `top_5_issues.png`
   - `ticket_status_distribution.png`
   - `average_resolution_time.png`
-  - `customer_rating_distribution.png`
+  - `ticket_type_distribution.png`
   - `ticket_wordcloud.png`
 
 ---
