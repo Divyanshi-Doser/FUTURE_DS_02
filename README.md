@@ -1,6 +1,6 @@
-# 📊 Customer Support Ticket Analysis — Internship Project
+# 📊 Customer Support Ticket Analysis — python Project
 
-This project was completed as part of my internship with **Future Intern**, focusing on analyzing over **8,400 real-world customer support tickets** to uncover bottlenecks and recommend data-driven improvements.
+This project focusing on analyzing over **8,400 real-world customer support tickets** to uncover bottlenecks and recommend data-driven improvements.
 
 ---
 
